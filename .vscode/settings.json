@@ -6,5 +6,17 @@
   "files.associations": {
     "*.css": "postcss"
   },
-  "editor.formatOnSave": false
+  "editor.formatOnSave": false,
+  "cSpell.words": [
+    "antfu",
+    "Attributify",
+    "iconify",
+    "nuxi",
+    "nuxt",
+    "nuxtjs",
+    "pinia",
+    "pnpm",
+    "unocss",
+    "vueuse"
+  ]
 }
